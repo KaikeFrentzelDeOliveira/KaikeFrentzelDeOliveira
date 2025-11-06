@@ -28,6 +28,20 @@ Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar pro
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="https://wa.me/551191518400">
+        <img 
+            alt="WhatsApp"
+            title="Fale comigo no WhatsApp"
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="mailto:Kaikefrentzel@gmail.com">
+        <img 
+            alt="E-mail"
+            title="Envie-me um e-mail"
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
