@@ -23,7 +23,7 @@ Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou natural de **S�
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Kaike%20Frentzel%20de%20Oliveira-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-Kaike%20Frentzel%20de%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -49,9 +49,8 @@ Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou natural de **S�
 
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
-| [🎮 Jogo de Labirinto](https://github.com/KaikeFrentzelDeOliveira/JogoLabirinto) | Um jogo de labirinto desenvolvido em JavaScript, com movimentação por teclado e tela de vitória animada. | HTML, CSS, JS |
-| [🧠 Adivinhação Web](https://github.com/KaikeFrentzelDeOliveira/ProjetoAdivinhacao) | Aplicação simples que desafia o usuário a adivinhar um número aleatório. | HTML, CSS, JS |
-| [🌐 Meu Portfólio](https://github.com/KaikeFrentzelDeOliveira) | Meu site pessoal com informações sobre mim, meus projetos e contato. | HTML, CSS, JS |
+| [🎧 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Projeto inspirado no Spotify, desenvolvido para fins acadêmicos, com foco em estrutura e design. | HTML, CSS, JS |
+| [🌐 Meu Portfólio](https://github.com/KaikeFrentzelDeOliveira) | Meu site pessoal com informações sobre mim, meus projetos e formas de contato. | HTML, CSS, JS |
 
 > 💡 *Mais projetos disponíveis no meu [perfil do GitHub](https://github.com/KaikeFrentzelDeOliveira?tab=repositories)*
 
@@ -59,19 +58,16 @@ Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou natural de **S�
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=KaikeFrentzelDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
   <img 
-    align="left" 
     alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeFrentzelDeOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeFrentzelDeOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
+
