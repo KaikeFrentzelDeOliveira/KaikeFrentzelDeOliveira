@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👨‍💻 Kaike Frentzel de Oliveira
 
-<!--
-**KaikeFrentzelDeOliveira/KaikeFrentzelDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou natural de **São Bernardo do Campo, São Paulo**. Concluí o ensino médio e atualmente curso **Ciência da Computação** na **FEI**. Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar projetos envolvendo **programação, inteligência artificial e web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/KaikeFrentzelDeOliveira?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/KaikeFrentzelDeOliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/KaikeFrentzelDeOliveira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/KaikeFrentzelDeOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/kaike-frentzel-de-oliveira-384576244">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Kaike%20Frentzel%20de%20Oliveira-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|:--|:--|:--|
+| [🎮 Jogo de Labirinto](https://github.com/KaikeFrentzelDeOliveira/JogoLabirinto) | Um jogo de labirinto desenvolvido em JavaScript, com movimentação por teclado e tela de vitória animada. | HTML, CSS, JS |
+| [🧠 Adivinhação Web](https://github.com/KaikeFrentzelDeOliveira/ProjetoAdivinhacao) | Aplicação simples que desafia o usuário a adivinhar um número aleatório. | HTML, CSS, JS |
+| [🌐 Meu Portfólio](https://github.com/KaikeFrentzelDeOliveira) | Meu site pessoal com informações sobre mim, meus projetos e contato. | HTML, CSS, JS |
+
+> 💡 *Mais projetos disponíveis no meu [perfil do GitHub](https://github.com/KaikeFrentzelDeOliveira?tab=repositories)*
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KaikeFrentzelDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeFrentzelDeOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
