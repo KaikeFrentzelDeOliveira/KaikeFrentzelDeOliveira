@@ -99,7 +99,7 @@ Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar pro
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Projeto inspirado no Spotify, desenvolvido para fins acadêmicos, com foco em estrutura e design. | HTML, CSS, JS |
+| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Projeto inspirado no Spotify, desenvolvido para fins acadêmicos, com foco em estrutura e design. | PYTHON |
 | [🌐 Portfólio](https://github.com/KaikeFrentzelDeOliveira/Portfolio) | Meu site pessoal com informações sobre mim, meus projetos e formas de contato. | HTML, CSS, JS |
 
 > 🔍 Veja mais projetos no meu [perfil do GitHub](https://github.com/KaikeFrentzelDeOliveira?tab=repositories)
