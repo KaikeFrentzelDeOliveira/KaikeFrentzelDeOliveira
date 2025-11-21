@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou natural de **São Bernardo do Campo, São Paulo**.  
+Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou de **São Bernardo do Campo, São Paulo**.  
 Concluí o ensino médio e atualmente curso **Ciência da Computação** na **FEI**.  
 Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar projetos envolvendo **programação, inteligência artificial e web**.
 
