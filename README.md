@@ -35,8 +35,8 @@ Tenho experiência com projetos acadêmicos e pessoais, além de vivência profi
 
 O sistema possui um ambiente de teste com as seguintes credenciais:
 
-- **Usuário:** usuario  
-- **Senha:** 123456  
+- **Usuário:** Tricombo  
+- **Senha:** Hotel1234  
 
 > Ambiente demonstrativo — nenhuma informação sensível é armazenada.
 
