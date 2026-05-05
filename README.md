@@ -3,20 +3,20 @@
 **`Estudante de Ciência da Computação | Desenvolvedor FullStack em formação`**
 
 Sou estudante de **Ciência da Computação pela FEI**, com foco em desenvolvimento de software e interesse em **back-end, lógica de programação e aplicações web**.  
-Tenho experiência com projetos acadêmicos e pessoais, além de vivência profissional em ambientes corporativos, o que fortaleceu minhas habilidades em **organização, comunicação e resolução de problemas**.
+Tenho experiência com projetos acadêmicos e pessoais, além de vivência profissional em ambientes corporativos, desenvolvendo habilidades em **organização, comunicação e resolução de problemas**.
 
 ---
 
 ## 💻 Tecnologias
 
 <div>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ---
@@ -25,9 +25,20 @@ Tenho experiência com projetos acadêmicos e pessoais, além de vivência profi
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Sistema em Python inspirado no Spotify, com funcionalidades de cadastro, busca, playlists e interação com músicas, utilizando estruturas de dados e lógica de programação. | Python |
-| [💰 Site ISS Retido](https://kaikefrentzeldeoliveira.github.io/SITE-ACCOR) | Sistema web para cálculo de ISS retido, desenvolvido para automatizar cálculos monetários e reduzir erros em processos financeiros reais. | HTML, CSS, JavaScript |
-| [🌐 Portfólio](https://kaikefrentzeldeoliveira.github.io/portifolio) | Site pessoal para apresentação de projetos, habilidades técnicas e informações de contato. | HTML, CSS, JavaScript |
+| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Sistema em Python inspirado no Spotify, com funcionalidades de cadastro, busca, playlists e interação com músicas. | Python |
+| [💰 Site ISS Retido](https://kaikefrentzeldeoliveira.github.io/SITE-ACCOR) | Sistema web para cálculo de ISS retido, automatizando cálculos monetários e reduzindo erros em processos financeiros. | HTML, CSS, JavaScript |
+| [🌐 Portfólio](https://kaikefrentzeldeoliveira.github.io/portifolio) | Site pessoal com apresentação de projetos, habilidades técnicas e formas de contato. | HTML, CSS, JavaScript |
+
+---
+
+## 🔐 Acesso de Demonstração
+
+O sistema possui um ambiente de teste com as seguintes credenciais:
+
+- **Usuário:** usuario  
+- **Senha:** 123456  
+
+> Ambiente demonstrativo — nenhuma informação sensível é armazenada.
 
 ---
 
@@ -42,7 +53,7 @@ Centro Universitário FEI — *Em andamento*
 
 **Accor — Anfitrião de Reservas**  
 - Atendimento ao cliente e gestão de reservas  
-- Utilização do sistema **Opera Cloud**  
+- Utilização do sistema Opera Cloud  
 - Organização de processos e suporte operacional  
 
 **McDonald's — Jovem Aprendiz**  
@@ -55,8 +66,8 @@ Centro Universitário FEI — *Em andamento*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaike-frentzel-de-oliveira-384576244)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaikeFrentzelDeOliveira)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551191518400)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kaikefrentzel@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511915184000)
 
 ---
 
