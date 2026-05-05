@@ -76,13 +76,11 @@ Sou apaixonado por tecnologia e desenvolvimento, com interesse em **programaçã
 
 <p align="center">
   <img 
-    alt="GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=KaikeFrentzelDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KaikeFrentzelDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
-    alt="Top Langs" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeFrentzelDeOliveira&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeFrentzelDeOliveira&layout=compact&theme=tokyonight"
   />
 </p>
