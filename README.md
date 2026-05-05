@@ -1,10 +1,10 @@
 # 👨‍💻 Kaike Frentzel de Oliveira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack | Focado em Back-end e Lógica`**
 
 Me chamo **Kaike Frentzel de Oliveira**, tenho **19 anos** e sou de **São Bernardo do Campo, São Paulo**.  
-Concluí o ensino médio e atualmente curso **Ciência da Computação** na **FEI**.  
-Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar projetos envolvendo **programação, inteligência artificial e web**.
+Atualmente curso **Ciência da Computação** na **FEI**.  
+Sou apaixonado por tecnologia e desenvolvimento, com interesse em **programação, inteligência artificial e desenvolvimento web**.
 
 <p align="left">
     <a href="https://github.com/KaikeFrentzelDeOliveira?tab=repositories&sort=stargazers">
@@ -48,62 +48,13 @@ Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar pro
 
 ### 💻 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5"
-    title="HTML5"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3"
-    title="CSS3"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
 <br/><br/>
 
@@ -113,8 +64,9 @@ Sou apaixonado por tecnologia e desenvolvimento, e gosto de aprender e criar pro
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Projeto inspirado no Spotify, desenvolvido para fins acadêmicos, com foco em estrutura e design. | PYTHON |
-| [🌐 Portfólio](https://kaikefrentzeldeoliveira.github.io/portifolio) | Meu site pessoal com informações sobre mim, meus projetos e formas de contato. | HTML, CSS, JS |
+| [🎵 SpotFEI](https://github.com/KaikeFrentzelDeOliveira/SpotFEI) | Sistema em Python inspirado no Spotify, com funcionalidades de cadastro, busca, playlists e interação com músicas. | PYTHON |
+| [💰 Site ISS Retido](https://kaikefrentzeldeoliveira.github.io/portifolio) | Sistema web para cálculo de ISS retido, automatizando operações monetárias e reduzindo erros em processos financeiros. | HTML, CSS, JS |
+| [🌐 Portfólio](https://kaikefrentzeldeoliveira.github.io/portifolio) | Site pessoal com apresentação de projetos, habilidades técnicas e formas de contato. | HTML, CSS, JS |
 
 > 🔍 Veja mais projetos no meu [perfil do GitHub](https://github.com/KaikeFrentzelDeOliveira?tab=repositories)
 
